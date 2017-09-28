@@ -1,0 +1,2 @@
+### EasyCreator extension templates
+
